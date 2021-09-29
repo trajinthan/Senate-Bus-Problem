@@ -2,17 +2,15 @@
 
 This problem was originally based on the Senate bus at Wellesley College. Riders come to a bus stop and wait for a bus. When the bus arrives, all the waiting riders invoke boardBus, but anyone who arrives while the bus is boarding has to wait for the next bus. The capacity of the bus is 50 people; if there are more than 50 people waiting, some will have to wait for the next bus. When all the waiting riders have boarded, the bus can invoke depart. If the bus arrives when there are no riders, it should depart immediately.
 
-1.Open a terminal and navigate to the `source_code` directory.
-
-2.Compile the Program:
+1.Compile the Program:
 
 `javac SenateBusProblem.java`
 
-3.Run the Program:
+2.Run the Program:
 
 `java SenateBusProblem`
 
-4.Press `Enter` key at anytime to terminate the process.
+3.Press `Enter` key at anytime to terminate the process.
 
 Note:-
 Buses and Riders are generated automatically at random intervals selected within pre-defined ranges of values.
